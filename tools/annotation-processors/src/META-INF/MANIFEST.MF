@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: exerrk
+Specification-Title: ExeReports Framework :: Annotations
+Specification-Version: 1.0.0
+Specification-Vendor: exerrk
+Implementation-Title: com.github.exerrk.annotations
+Implementation-Version: 6.4.2
+Implementation-Vendor: exerrk
+Bundle-ManifestVersion: 2
+Bundle-Name: ExeReports Framework :: Annotations
+Bundle-Version: 1.0.0
+Bundle-Vendor: exerrk
+Bundle-SymbolicName: com.github.exerrk.annotations
+Bundle-ClassPath: .
+Export-Package: com.github.exerrk.anotations.properties,
+    com.github.exerrk.metadata.properties
+DynamicImport-Package: *
